@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+{"package":"left-pad","version":"1.3.0","time":1543351979235,"hash":{"sha1":"5b8a3a7765dfe001261dde915589e782f8c94d1e","sha512":"XI5MPzVNApjAyhQzphX8BkmKsKUxD4LdyK24iZeQGinBN9yTQT3bFlCBy/aVx2HrNcqQGsdot8ghrjyrvMCoEA=="}}
+-----BEGIN PGP SIGNATURE-----
+
+iQJOBAEBCAA4FiEEF5NfPV9xhTet/9huDWnalKEuuYUFAlv9rqsaHGVpcmlrc2xl
+dHRlYmVyZ0BnbWFpbC5jb20ACgkQDWnalKEuuYX+8A//daYNMwXF90+VXYFATEts
+q2Zlei+hgNhbDzULdF+MG92OwbY8bBN+9ekjE4yWF7aVw77ULB3qo1wtKONP1IgC
+9w3jrCEfPwkjfub1SFJAo/1LjRtCyS6hi/KUGD3oR8SG9ALL9sZ+FPRl+XdGTe/S
+cFAubpSBok/KrXIZqlSm/SB3+bLOr+VFYc6KntPwpiRLMz781nzkDHHMT+LINo9x
+/4YDLu9SrGNKetMkywQO1g6ZysRkeAL3piBLVs77csnr3tqjebVynjQVG2rgb5PE
+j/rAUcz/1MrrmmCXkBIoVyE/eRmul/A6d7LzEYBVBkEAzcIwq/jAS4b9WfqXY4BT
+Ab7Nb5+ISU9sXabOTXIaptLafgiyoRjSvkiktGE2RcmxykwI0uSm9lImuorATsiI
+d8Tq0fqCdnEKU+7WahAk1zn85PNYn4WHNB1/enwNZRIdA+Iw8VPGVrFxT+oloDno
+j7vhxl6kuMeEZapqaXLqrtz1EbviHzr+gDX0m5bkcDdGzInV6LREatOs5s8gyvPo
+S7akMWOMLk3oUM9ddnGKGa5r2g1DEIlzvjCPvjb87fYQ/0loIoFSdGGKOFhk3Irm
+DH/v2UxidlJurgVTJt1yHTXPiQY6jmafSKlU0ehHrPzyEP3cuK3GOpgmq9Y4aoSP
+kBCpYHB57vnFkRi0GlQOrtc=
+=gRgD
+-----END PGP SIGNATURE-----
