@@ -1,5 +1,5 @@
 #!/bin/bash
-DIR="signatures/$PACKAGE-$VERSION/*.sig"
+DIR="signatures/$PACKAGE/$VERSION/*.sig"
 
 for f in $DIR
 do
