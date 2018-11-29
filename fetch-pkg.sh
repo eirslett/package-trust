@@ -1,5 +1,5 @@
 #!/bin/bash
-DIR="packages/$PACKAGE-$VERSION"
+DIR="packages/$PACKAGE/$VERSION"
 
 rm -rf $DIR
 mkdir -p $DIR
